@@ -17,7 +17,7 @@ Whether you're managing waste in smart cities, educational campaigns, or persona
 ---
 
 ## Live Demo 🌍  
-Try the app now: [WasteVision Streamlit App](https://wastevision-jtboe6gjqeysbhtdghrk8f.streamlit.app//)
+Try the app now: [WasteVision Streamlit App](https://wastevision-prathyusha215.streamlit.app/)
 
 ---
 
