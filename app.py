@@ -21,7 +21,7 @@ def apply_background():
 
 
 def load_model():
-    model = YOLO(r"detect\train\weights\best.pt")   # Load YOLO model
+    model = YOLO("detect\train\weights\best.pt")   # Load YOLO model
     return model
 
 def detect_objects(model, image):
